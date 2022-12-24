@@ -1,0 +1,28 @@
+div.div1{
+    font-family: Georgia;
+    font-weight: bolder;
+    color: DodgerBlue;
+}
+div.div2{
+    font-family: Georgia;
+    font-weight: bolder;
+    color: DodgerBlue;
+    font-size: 200%;
+   
+}
+b.b1{
+    font-size: 150%;
+}
+div.codex{
+    text-shadow: 4px 4px 8px red;
+    color: dodgerblue;
+    font-size: 130%;
+}
+div.div3{
+    font-family: georgia;
+    font-weight: bolder;
+    color: dodgerBlue;
+    background-color: yellow;
+    border: 3px dashed red;    
+}
+ 
